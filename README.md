@@ -374,13 +374,14 @@ Others:
 - [TMK Firmware Builder](http://kb.sized.io/)  - online TMK Firmware Builder.
 - [Parametric Mechanical Keycap Library](https://github.com/rsheldiii/KeyV2)  - is a keycap and keyset construction library for mechanical keyboards, written in openSCAD.
 - [KiCad Parts by Ai03](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)  - KiCad Library of custom MX-Alps footprints
-- [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty)  - KiCAD footprint library for kailh choc and MX-style mechanical switches
-- [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty)  - Various KiCAD footprints for mechanical keyboard parts
-- [KiCAD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty)  - KiCad modules for keyboard design
-- [KiCAD Parts marbastlib](https://github.com/ebastler/marbastlib) - KiCAD symbols and footprints for mechanical keyboard design, can be added as a plugin
+- [KiCad Parts by Daprice](https://github.com/daprice/keyswitches.pretty)  - KiCaD footprint library for kailh choc and MX-style mechanical switches
+- [KiCad Parts by Keebio](https://github.com/keebio/Keebio-Parts.pretty)  - Various KiCad footprints for mechanical keyboard parts
+- [KiCaD Parts by TMK](https://github.com/tmk/keyboard_parts.pretty)  - KiCad modules for keyboard design
+- [KiCaD Parts marbastlib](https://github.com/ebastler/marbastlib) - KiCad symbols and footprints for mechanical keyboard design, can be added as a plugin
+- [KiCad Parts by Acheron](https://github.com/AcheronProject/AlexandriaLibrary) - KiCad symbols and footprints for mecanical keyboard design
 - [Keyswitch Datasheets](https://github.com/keyboardio/keyswitch_documentation)
 - [QMK Proton C symbol/footprint for KiCad](https://github.com/qmk/qmk_hardware/tree/master/kicad/proton_c),  [Eagle](https://github.com/qmk/qmk_hardware/tree/master/eagle)
-- [ESP32-kiCAD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
+- [ESP32-KiCaD-Footprints](https://github.com/adamjvr/ESP32-kiCAD-Footprints)
 
 ## Tutorials
 
